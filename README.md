@@ -43,6 +43,7 @@ No idea yet.
 * Search
 
 ## Storyboard
+In progress.
 
 ## Sources
 
@@ -50,8 +51,11 @@ No idea yet.
 https://agroeco.org/
 http://www.fao.org/docs/eims/upload/207703/fiche%20wp3.pdf
 https://en.wikipedia.org/wiki/Agroecology
+https://en.wikipedia.org/wiki/Agroecosystem
+http://www.annualreviews.org/doi/pdf/10.1146/annurev.es.26.110195.001221
 
 ### Agriculture
+http://onlinelibrary.wiley.com/doi/10.1111/j.1477-8947.1997.tb00699.x/full
 https://www.idrc.ca/en/article/facts-figures-food-and-biodiversity
 http://www.sustainabletable.org/982/agriculture-energy-climate-change
 http://www.nationalgeographic.com/foodfeatures/feeding-9-billion/
@@ -60,6 +64,8 @@ http://www.nationalgeographic.com/foodfeatures/feeding-9-billion/
 http://documents.worldbank.org/curated/en/167301467999716265/pdf/96226-REVISED-WP-PUBLIC-Box391469B-Mobile-Applications-for-ARD-v8S-Complete.pdf
 http://www.annualreviews.org/doi/pdf/10.1146/annurev.es.26.110195.001221
 http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/05/05/090224b082e3e4bb/Rendered/PDF/Mobile0applica0nd0rural0development.pdf
+http://www.gsma.com/mobilefordevelopment/wp-content/uploads/2011/12/Syngenta_Report_on_mAgriculture_abridged_web_version.pdf
+https://pdfs.semanticscholar.org/eb33/89189d36fe4784409934865a028ea3a6c362.pdf
 
 ### App planning & development
 [Minimum Viable Product](https://docs.google.com/drawings/d/1sMRdauCeX85tciOBhx45VDhB9t_75Nh2bOQD2Y3GM3g/edit?usp=sharing)
@@ -76,6 +82,7 @@ https://br.udacity.com/course/ux-design-for-mobile-developers--ud849/
 ### Other links
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://www.un.org/en/universal-declaration-human-rights/
+https://pdfs.semanticscholar.org/c64c/ec41a5947b3709dc4423922d5889a580a700.pdf
 
 ## Glossary 
-Agroecosystem
+Agroecosystem: "the basic unit of study in agroecology, and is somewhat arbitrarily defined as a spatially and functionally coherent unit of agricultural activity, and includes the living and nonliving components involved in that unit as well as their interactions."
